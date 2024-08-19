@@ -1,0 +1,1 @@
+aws_s3_bucket_name = "terraform-cloudshell-demo-${data.aws_caller_identity.this.account_id}"
